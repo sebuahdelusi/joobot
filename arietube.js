@@ -538,7 +538,7 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             }
             break
             case 'sc': {
-                m.reply('Script : https://youtu.be/NqZ_kkUQvlA\n\n Jangan lupa subscribe\n\nDonasi : https://sociabuzz.com/arietube/tribe')
+                m.reply('Yang punya script : https://youtu.be/NqZ_kkUQvlA\n\nSaya cuma edit-edit script punya dia')
             }
             break
             case 'chat': {
